@@ -20,8 +20,8 @@ msgstr ""
 
 #: html_templates/index.html:8
 msgid "A string to be translated"
-msgstr ""
+msgstr "Une chaîne à traduire"
 
 #: multi_language_django_site/views.py:5
 msgid "Hello"
-msgstr ""
+msgstr "Bonjour"
